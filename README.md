@@ -6,11 +6,11 @@ Hi there! My name is Omotosho Ayomide and I'm a budding frontend developer. I'm 
 
 ## Skills
 
-    - HTML
-    - CSS
-    - Tailwind CSS
-    - JavaScript
-    - React.js
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+- React.js
 
 ## Contact
 
