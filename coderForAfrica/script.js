@@ -1,14 +1,8 @@
-let addCart = document.getElementsByClassName('addBtn');
-let addNumber = document.querySelector('.adNum');
+let addNumber = document.getElementById("adNum");
 let cart = 0;
 
+function addtoCart(){
+    cart += 1;
+    addNumber.innerText = cart;
+}
 
-addCart.addEventListener('click', function addtoCart() {
-    
-    console.log('add to cart');
-    
-    // cart =+ 1;
-    // addNumber.textcontent = cart;
-})
-
-// addtoCart();
