@@ -1,1 +1,1 @@
-# Idris Agboola - Full-stack developer
+# Idris Ishola Agboola - Frontend developer
