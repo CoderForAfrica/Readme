@@ -1,1 +1,1 @@
-# Idris Agboola - Full-stack developer
+# Jeremiah Egbune - Frontendbran developer
